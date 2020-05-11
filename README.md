@@ -1,2 +1,2 @@
 # Bot67
-A discord bot.
+A discord bot written in Python.
